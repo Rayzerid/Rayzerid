@@ -4,7 +4,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rayzerid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rayzerid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayzerid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2YjQwYzhiMmY1M2ZkOTdmMTZkMzJhOWUyNjMxODUyMDE3MTc5NSZjdD1n/wKBhOfypl2ghdVLhIr/200.gif)
 ---
 [![](https://visitcount.itsvg.in/api?id=Rayzerid&icon=1&color=1)](https://visitcount.itsvg.in)
 
