@@ -16,9 +16,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rayzerid&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rayzerid&theme=maroongold&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayzerid&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rayzerid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rayzerid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayzerid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rayzerid&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
