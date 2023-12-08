@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2YjQwYzhiMmY1M2ZkOTdmMTZkMzJhOWUyNjMxODUyMDE3MTc5NSZjdD1n/wKBhOfypl2ghdVLhIr/200.gif"/>
+  <gif src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2YjQwYzhiMmY1M2ZkOTdmMTZkMzJhOWUyNjMxODUyMDE3MTc5NSZjdD1n/wKBhOfypl2ghdVLhIr/200.gif"/>
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/s7uquxK3)  
