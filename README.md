@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2YjQwYzhiMmY1M2ZkOTdmMTZkMzJhOWUyNjMxODUyMDE3MTc5NSZjdD1n/wKBhOfypl2ghdVLhIr/200.gif"/>
 
 # 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/s7uquxK3)  
+[![Telegram](https://images.icon-icons.com/2530/PNG/512/telegram_button_icon_151837.png)]([https://discord.gg/https://discord.com/invite/s7uquxK3](https://t.me/geRman_rose))  
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
